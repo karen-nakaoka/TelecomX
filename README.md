@@ -107,6 +107,14 @@ A análise revelou alguns fatores importantes associados à evasão:
 
 ---
 
+## 🔎 Análise de correlação entre variáveis
+
+Como etapa adicional, foi realizada uma análise de correlação entre algumas variáveis numéricas do dataset, como **tempo de contrato, gasto mensal, gasto total e evasão**.
+
+Os resultados indicam que o **tempo de contrato apresenta relação negativa com a evasão**, sugerindo que clientes com maior tempo de permanência tendem a cancelar menos o serviço. Também foi observada forte correlação entre as variáveis relacionadas a gastos, o que era esperado, pois representam diferentes medidas do valor pago pelos clientes.
+
+---
+
 # 💡 Recomendações
 
 Com base nos resultados obtidos, algumas estratégias podem ajudar a reduzir a evasão:
